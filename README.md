@@ -12,6 +12,8 @@ Testing
 |Header     |Title      |
 |Paragraph  |Text       |
 
+
+![GIF](media3/
 ## Titre 2 A
 
 **Introduction**
