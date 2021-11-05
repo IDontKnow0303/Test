@@ -4,7 +4,7 @@ Testing
 ![fleur](media/Fleur_rose.jpg)
 
 
-![mouton](media/Mouton.jpeg)
+![mouton](media2/Mouton.jpeg)
 
 ## Titre 2 A
 
