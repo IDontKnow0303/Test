@@ -13,7 +13,9 @@ Testing
 |Paragraph  |Text       |
 
 
-![GIF](media3/
+![GIF](media3/2021-11-05-10-18-56.gif)
+
+
 ## Titre 2 A
 
 **Introduction**
