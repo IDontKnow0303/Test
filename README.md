@@ -1,7 +1,7 @@
 # Test
 Testing
 
-!.[fleur](media/![20171205a-petr-kratochvil-publicdomainepictures-net](https://user-images.githubusercontent.com/93773464/140513597-a64443c5-4020-4bc0-977f-370293f977ad.jpg)
+!.[fleur](media/!
 
 
 ## Titre 2 A
